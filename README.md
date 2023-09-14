@@ -4,8 +4,13 @@ The final codes were missed due to the long delay. We can just find the initial 
 
 The relabeled dataset TextCaps-OCR v2 is based on TextCaps-OCR v1, which is published on PRCV 2022.
 
-You can download TextCaps-OCR v2 on the Baidu Cloud Disk: https://pan.baidu.com/s/1cc12th-xDw5mCPxwP5o_Ng?pwd=TOLD
+You can download TextCaps-OCR v2 on the Baidu Cloud Disk: 
+https://pan.baidu.com/s/1cc12th-xDw5mCPxwP5o_Ng?pwd=TOLD
 
 Extracted code：TOLD
 
-@inproceedings{zhou2023scene, title={Scene Text Involved" Text"-to-Image Retrieval through Logically Hierarchical Matching}, author={Zhou, Xinyu and Zhu, Anna and Chen, Huen and Pan, Wei}, booktitle={2023 IEEE International Conference on Multimedia and Expo (ICME)}, pages={114--119}, year={2023}, organization={IEEE} }
+@inproceedings{zhou2023scene, 
+title={Scene Text Involved" Text"-to-Image Retrieval through Logically Hierarchical Matching}, 
+author={Zhou, Xinyu and Zhu, Anna and Chen, Huen and Pan, Wei}, 
+booktitle={2023 IEEE International Conference on Multimedia and Expo (ICME)},
+pages={114--119}, year={2023}, organization={IEEE} }
