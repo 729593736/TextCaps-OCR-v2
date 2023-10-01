@@ -1,4 +1,4 @@
-This paper was first rejected by AAAI 2023 with a mixture score (6, 6, 4, 4) and then accepted by ICME 2023.
+This paper was accepted by ICME 2023 as Oral.
 
 The final codes were missed due to the long delay. We can just find the initial version training codes, which are similar to the final one; the difference only lies in semi-supervised and supervised in the loss calculation and the alignment step. There are sufficient annotations to understand the idea of the main code.
 
